@@ -1,0 +1,11 @@
+<resources>
+    <declare-styleable name="FullscreenAttrs">
+        <attr name="fullscreenBackgroundColor" format="color" />
+        <attr name="fullscreenTextColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="RectImageView">
+        <attr name="cornerRadius" format="dimension"/>
+        <attr name="shadowRadius" format="dimension"/>
+    </declare-styleable>
+</resources>
